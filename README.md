@@ -1,12 +1,10 @@
-This Project forked from https://github.com/clementmihailescu/Sorting-Visualizer-Tutorial for educational purposes only.
+This Project was forked from https://github.com/clementmihailescu/Sorting-Visualizer-Tutorial for educational purposes.
 
 * Learn the React library
 * GUI using sorting algorithms
 
 ### Launching the app
-*Go the the current directory
-
-*Open cmd prompt type in cd then click and drag the folder into cmd prompt
+* Go the the current directory
 
 * Type `npm install` to install the react library
 
